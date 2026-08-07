@@ -33,3 +33,19 @@ console.log(xyz); //undefined
 let nullValue = null;
 console.log(nullValue); //null means empty value
 
+
+// NON_PREMITIVE DATA TYPES
+/*
+*/
+
+let user = {
+    firstName: "Ankit",
+    lastName: "Chaudhary",
+    isLoggedIn: true, //we are ale to change because we used let and not const :)
+}
+
+console.log(typeof user); //object
+//            |
+//  typeof is used to know the data type of a variable or value
+
+console.log(typeof 4); //number

@@ -4,6 +4,8 @@
 
 // Declare variables
 let country = "India";
+//    |          |
+//  variable   value
 let continent = "Asia";
 let population = "1.47 Billion"
 
